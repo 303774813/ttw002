@@ -23,7 +23,7 @@
 
 - (void)test
 {
-    NSLog(@"test");
+    NSLog(@"test111111");
 }
 - (void)didReceiveMemoryWarning
 {
